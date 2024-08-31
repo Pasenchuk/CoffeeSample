@@ -4,6 +4,7 @@ apply plugin: 'com.android.library'
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation project('mobilenotifications.androidlib')
+    implementation 'androidx.activity:activity:1.9.1'
 
 }
 
