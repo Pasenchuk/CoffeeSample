@@ -1,0 +1,9 @@
+/build
+/libs
+/mobilenotifications.androidlib
+/symbols
+/src/main/assets
+/src/main/Il2CppOutputProject
+/src/main/jniLibs
+/src/main/jniStaticLibs
+
