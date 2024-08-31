@@ -45,7 +45,8 @@
         <FrameLayout
             android:id="@+id/v_game_container"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent"
+            android:layout_margin="20.dp" />
 
         <FrameLayout
             android:id="@+id/v_hide_loading"
